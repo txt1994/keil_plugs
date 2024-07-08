@@ -1,11 +1,11 @@
 /**
   ************************ Copyright *************** 
-  *           (C) Copyright {Year},txt1994,China, GCU.
+  *           (C) Copyright {Year},txt1994,China.
   *                  All Rights Reserved
   *
   *				https://github.com/txt1994
-  *				email:linguangyuan88@gmail.com
-  *				QQ	 :2643989637
+  *				email: linguangyuan88@icloud.com
+  *				QQ	  : 2643989637
   *      
   * FileName     : {FileName}   
   * Version      : v1.0		
