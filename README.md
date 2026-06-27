@@ -14,28 +14,28 @@ Keil插件
 
 对多个文件格式化，但需要在同一个文件夹，命令：
 ```shell
-    -n "$E*.c" "$E*.h" --style=google -p -s4 -S -f -xW -w -xw -R
+-n "$E*.c" "$E*.h" --style=google -p -s4 -S -f -xW -w -xw -R
 ```
 
 2.FileComments可以对*.h和*.c进行快速添加注释，但需要模版文件，此文件在最下面提供下载，命令：
 ```shell
-    !E
+!E
 ```
 
 3.DateTime可以识别当前日期和时间，用的不多，命令：
 当前日期：
 ```shell
-    !E ~E ^E
+!E ~E ^E
 ```
 
 当前时间：
 ```shell
-    !E ~E ^E T
+!E ~E ^E T
 ```
 
 4.FunctionComment可以提供函数快速添加注释，命令：
 ```shell
-    !E ~E
+!E ~E
 ```
 
 把这些插件添加到keil中，打开keil，依次点击Tools->Customize Tools Menu,此时页面是这样的： 
