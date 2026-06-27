@@ -42,4 +42,5 @@ Keil插件
 !E ~E
 ```
 
-把这些插件添加到keil中，打开keil，依次点击Tools->Customize Tools Menu,此时页面是这样的： 
+把这些插件添加到keil中，打开keil，依次点击Tools->Customize Tools Menu,此时页面是这样的：
+![其中一个例子](./Screenshot_2026-06-27-13-33-13-39_ffb2f5e1b976ff98cfc94f359fbce8de.jpg)
