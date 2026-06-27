@@ -4,7 +4,7 @@
   *                  All Rights Reserved
   *
   *				https://github.com/txt1994
-  *				email: linguangyuan88@icloud.com
+  *				email: linguangyuan88@outlook.com
   *				QQ	  : 2643989637
   *      
   * FileName     : {FileName}   
